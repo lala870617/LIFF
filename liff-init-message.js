@@ -11,4 +11,4 @@ liff.sendMessages([
   .catch(function(error) {
     console.log(error);
   });
-
+liff.closeWindow();
